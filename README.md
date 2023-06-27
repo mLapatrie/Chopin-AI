@@ -1,6 +1,6 @@
 # Chopin AI
 
-**Content**
+**Content**\n
 This repository contains a recurrent neural network (rnn) that was trained on Chopin's nocturnes. It also contains a program that parses midi files into strings of characters that are more easily understood by the rnn. 
 
 **Goal**
